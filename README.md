@@ -6,4 +6,5 @@ To install, please run the file named:
 > install.bat
 When you have done this, run the file named:
 > main.py
+
 Once you have opened this file, please follow the instructions given.
