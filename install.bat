@@ -1,0 +1,1 @@
+pip install pytube scrapetube yt-dlp customtkinter pygame ffmpeg-python ffprobe-python
